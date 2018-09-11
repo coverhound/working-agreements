@@ -7,7 +7,7 @@
   your team know when you will be out, and remind them close to that time.
 - When working from home, if you're going AFK (away from keyboard), let your team
   know that you are and when you'll be back.
-- Make sure to be available during core hours as detailed here: [Communication](./Communication.md)
+- Make sure to be available during core hours as detailed here: [Communication](../Communication.md)
 
 ### Decisions
 
