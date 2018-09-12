@@ -10,3 +10,5 @@ The content here is broken into four main categories:
 + [Commit Messages](./Commit-Messages.md)
 + [Branches](./Branches.md)
 + [Merging](./Merging.md)
+
+There is also an [Example Workflow](./Example-Workflow.md) to help illustrate some of the ideas codified in these documemnts.
