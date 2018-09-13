@@ -1,3 +1,6 @@
+[Main](../../README.md) >
+[People](../README.md)
+
 # Teamwork
 
 - In team discussions, respectful expression of dissenting opinions is encouraged.

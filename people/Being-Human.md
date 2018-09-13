@@ -1,3 +1,6 @@
+[Main](../README.md) >
+[People](./README.md)
+
 # Being Human
 
 - Use people's chosen personal pronoun.

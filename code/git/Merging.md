@@ -1,3 +1,7 @@
+[Main](../../README.md) >
+[Technical Guidelines and Style](../README.md) >
+[Git](./README.md)
+
 # Merging
 
 If you need to merge `master` into a shared feature branch (sometimes referred

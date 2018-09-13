@@ -1,3 +1,6 @@
+[Main](../README.md) >
+[People](./README.md)
+
 # Core Hours: 10:30AM – 3:30PM
 
 Core hours consist of hours during which all employees are expected to be
