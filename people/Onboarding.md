@@ -1,3 +1,6 @@
+[Main](../README.md) >
+[People](./README.md)
+
 # Onboarding
 
 Each new engineer should be assigned an onboarding buddy to answer their

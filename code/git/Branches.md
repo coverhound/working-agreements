@@ -1,3 +1,7 @@
+[Main](../../README.md) >
+[Technical Guidelines and Style](../README.md) >
+[Git](./README.md)
+
 # Branches
 
 - Never delete a remote branch with unmerged commits without asking the author

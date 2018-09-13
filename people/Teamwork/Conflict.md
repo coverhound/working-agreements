@@ -1,3 +1,7 @@
+[Main](../../README.md) >
+[People](../README.md) >
+[Teamwork](./README.md)
+
 # Conflict
 
 If you have a conflict with someone, try to resolve it tactfully.

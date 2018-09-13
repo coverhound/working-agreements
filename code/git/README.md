@@ -1,3 +1,6 @@
+[Main](../../README.md) >
+[Technical Guidelines and Style](../README.md)
+
 # Git
 
 Use [this](./.gitmessage) `.gitmessage` template for commits.
