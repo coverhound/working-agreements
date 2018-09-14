@@ -5,8 +5,9 @@
 # Merging
 
 If you need to merge `master` into a shared feature branch (sometimes referred
-to as "watering" your branch with `master`) then you need to open a PR to do
-that. If there are no conflicts then that PR can be merged without difficulty.
+to as "watering" your branch with `master`) then you need to open a pull request
+to do that. If there are no conflicts then that pull request can be merged
+without difficulty.
 
 ## Merge Conflicts
 
@@ -22,11 +23,18 @@ conflicts:
     - Optional: Some folks may prefer to uncomment the conflicting files in the
       commit message, that's okay, but not required.
 3. Fix conflicts in the files you noted and make a single new commit with all
-   the fixes.
-4. Put up a PR for merging this branch into master and go through the normal PR
-   review process.
+the fixes.
+4. Put up a pull request for merging this branch into master and go through the
+normal pull request review process.
   - Merge conflict resolution can be tricky; as a reviewer, please be extra
-    attentive to these PRs and take a look the latest commit, which will
-    contain the conflict resolutions.
+    attentive to these pull requests and take a look the latest commit, which
+    will contain the conflict resolutions.
 
-The above is relevant for any merge into a branch you're sharing with another developer(s) or where there is some reasonable chance that your attempted merge conflict resolution would break the code. If the merge conflicts are minor *and* there is no reasonable chance you would incorrectly resolve the merge conflict, then you may simply resolve the merge conflict on your own. (For example, if the merge conflict is just a conflict of dates at the top of `db/schema.rb`, then just choose the more recent date; there is no need for the above process in such a case.)
+The above is relevant for any merge into a branch you're sharing with another
+developer(s) or where there is some reasonable chance that your attempted merge
+conflict resolution would break the code. If the merge conflicts are minor *and*
+there is no reasonable chance you would incorrectly resolve the merge conflict,
+then you may simply resolve the merge conflict on your own. (For example, if the
+merge conflict is just a conflict of dates at the top of `db/schema.rb`, then
+just choose the more recent date; there is no need for the above process in such
+a case.)

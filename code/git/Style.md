@@ -10,5 +10,5 @@
 - Except for minor changes, give each a commit message that has a title AND a
   body, where you explain why the change was necessary and what your approach
   was (unless self-explanatory from the code).
-- Add a link to the Pivotal ticket somewhere in the PR description.
-- Add any relevant labels to your PR.
+- Add a link to the Pivotal ticket somewhere in the pull request description.
+- Add any relevant labels to your pull request.
