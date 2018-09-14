@@ -20,8 +20,9 @@ the [Settings Repo](https://github.com/coverhound/settings-files).
    `[project-name]/staging/[settings-file-name].yml`
 4. Create a ticket in the Pivotal devops project to update the production
    settings
-5. Once the PRs to the settings repo have been merged and the devops ticket has
-   been completed, code that depends on the new settings can be safely released.
+5. Once the pull requests to the settings repo have been merged and the devops
+   ticket has been completed, code that depends on the new settings can be
+   safely released.
 
 ## Local Settings
 

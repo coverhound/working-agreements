@@ -19,9 +19,9 @@ job while building features or maintaining existing code.
 
 ## How
 - Example uses:
-    - Test case / proof of concept PRs
+    - Test case / proof of concept pull requests
     - Upcase / Egghead.io tutorials/course, etc.
-    - Refactor PRs
+    - Refactor pull requests
     - Something totally different that helps the team
 - Defer to tech lead / product manager if something urgent needs to be addressed
   instead

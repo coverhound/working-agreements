@@ -6,8 +6,8 @@
 
 When adding dependencies, we should consider downstream effects. It should be in
 a separate commit, with a message that addresses as much of the below as
-possible and be reviewed by **two** reviewers. Ensure that you label the PR
-`dependency` to make it easier to find.
+possible and be reviewed by **two** reviewers. Ensure that you label the pull
+request `dependency` to make it easier to find.
 
 #### Community Support
 
