@@ -3,7 +3,6 @@
 [Teamwork](./README.md)
 
 # Conflict
-
 If you have a conflict with someone, try to resolve it tactfully.
 
 ## Principles
@@ -22,13 +21,11 @@ If you have a conflict with someone, try to resolve it tactfully.
 - Apologize for your mistakes as needed
 
 ## Asking For Help
-
 When attempting to resolve conflicts, it can sometimes be very helpful to have
 someone else there to help. A dedicated mediator is a well-established concept
 in conflict resolution. We would be wise to use this concept as well.
 
-## Who Can Help
-
+### Who Can Help
 Anyone can be a mediator. An authority figure can sometimes be helpful, but is
 definitely not required. In terms of who to ask, here are some suggestions:
 + Your tech lead
@@ -42,8 +39,7 @@ definitely not required. In terms of who to ask, here are some suggestions:
   + Another engineer from your team (but separate from the conflict) or from
     another team can be a great help to resolve conflict.
 
-## How To Ask For Help
-
+### How To Ask For Help
 It can be hard to ask for help. If that is the case for you, feel free to use
 any of these phrases to get the conversation started.
 
@@ -52,4 +48,4 @@ any of these phrases to get the conversation started.
 + "My communication with #{coworker} feels tense and divisive. Could you help us
   reëstablish trust and understanding?"
 + "I'm feeling attacked by #{coworker}. I would like to feel safe. Can you help
-  me with that."
+  me with that?"
