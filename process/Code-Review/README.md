@@ -19,14 +19,16 @@ GitHub. For general Git guidelines and practices, see
       entire pull request.
     - A failing build on Solano will require administrator override to merge.
       All Tech Leads are GitHub admins and will have the power to do so.
-- Don't leave pull requests open and inactive for more than 2 business days.
 - Don't merge someone else's pull request without their approval.
-- master merge pull requests to feature branches do not require review
-- Keep "pull request fix" changes in separate commits for ease of review.
+- Keep additional commits for addressing code review separate for ease of review.
+    - These should be squashed after PR approval.
 - pull requests should include tests if possible, but whether to practice strict
   TDD (whether to write the tests before or after the code) is up to the author.
 - If your pull request is waiting on something other than code review, close it
   and reopen it when it's ready for code review or to be merged.
+    - Avoid leaving pull requests open and inactive for more than 2 business days.
+    - Use labels such as "pending product approval" and "pending settings" to
+      indicate what is needed before merging is acceptable.
 - Code review is a tremendous learning opportunity. If someone shows you
   something new, call it out and thank them!
 - Similarly, if there is something in the code that is especially well done or
