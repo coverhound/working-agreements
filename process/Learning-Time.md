@@ -25,3 +25,9 @@ job while building features or maintaining existing code.
     - Something totally different that helps the team
 - Defer to tech lead / product manager if something urgent needs to be addressed
   instead
+
+## Cool improvements that came out of learning time
+- CSS module improvements on Commercial
+- Jest improvements for Commercial
+- Removing treat started as a spike project, huge success
+- Refactoring redux actions into ducks in commercial app 
