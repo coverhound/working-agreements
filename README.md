@@ -22,9 +22,11 @@ These agreements fall largely into three categories:
   + [Meetings](./people/Meetings.md)
   + [Onboarding](./people/Onboarding.md)
   + [Teamwork](./people/Teamwork/README.md)
+    + [Conflict](./people/Teamwork/Conflict.md)
 
 + [Process](./process/README.md)
   + [Code Review](./process/Code-Review/README.md)
+    + [Adding Dependencies](./process/Code-Review/Adding-Dependencies.md)
   + [Issue Tracking](./process/Issue-Tracking.md)
   + [Learning Time](./process/Learning-Time.md)
   + [Settings](./process/Settings.md)
@@ -32,5 +34,13 @@ These agreements fall largely into three categories:
 + [Technical Guidelines and Style](./code/README.md)
   + [CSS](./code/css/README.md)
   + [Git](./code/git/README.md)
+      + [Style](./code/git/Style.md)
+      + [Commit Messages](./code/git/Commit-Messages.md)
+      + [Branches](./code/git/Branches.md)
+      + [Merging](./code/git/Merging.md)
+    + [Javascript](./javascript/README.md)
   + [Javascript](./code/javascript/README.md)
   + [Ruby](./code/ruby/README.md)
+
+If you're not an engineer but have team members who are, view a summary of the
+information most relevant to you [here](./Working-With-Engineers.md).
