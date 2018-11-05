@@ -35,7 +35,9 @@
   sense," the next action is not for them to seek to understand it, but rather
   to talk to the story owner. The story owner should clarify the requirements
   in the story.
-- A bug report is not valid and workable without steps to reproduce.
+- All efforts should be made to reproduce a bug before making a report. _With
+  some exceptions,_ a bug report is not valid and workable without steps to
+  reproduce.
 - A story is not valid and workable without acceptance criteria.
 - If a spec completely changes from the original direction of the story after
   development has already begun/completed, a separate ticket should be created
