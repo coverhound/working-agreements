@@ -6,7 +6,7 @@
 
 - Never delete a remote branch with unmerged commits without asking the author
   first.
-- Never merge a pull request when the branch being merged to is red on Solano
+- Never merge a pull request when the branch being merged to is red on CircleCI
   UNLESS the purpose of the pull request is to fix the test.
 - Don't force push to a shared branch without approval from all involved.
 - Prefix all your branch names with your initials or username. This helps
