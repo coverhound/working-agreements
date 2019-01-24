@@ -11,13 +11,13 @@ GitHub. For general Git guidelines and practices, see
 
 - All pull requests must satisfy the following requirements:
     - An approved review
-    - Passing on Solano
+    - Passing on CircleCI
     - Passing on Code Climate
 - If the author feels either of the automated analysis failures are
   illegitimate, they should highlight that in a comment on the pull request.
     - Code Climate infractions can be ignored individually or the level of the
       entire pull request.
-    - A failing build on Solano will require administrator override to merge.
+    - A failing build on CircleCI will require administrator override to merge.
       All Tech Leads are GitHub admins and will have the power to do so.
 - Don't merge someone else's pull request without their approval.
 - Keep additional commits for addressing code review separate for ease of review.
