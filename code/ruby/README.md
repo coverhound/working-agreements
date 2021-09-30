@@ -3,7 +3,11 @@
 
 # Ruby
 
-When in doubt, refer to the [`.rubocop.yml`](./.rubocop.yml)
+The [Rubo config repo](https://github.com/coverhound/rubocop-config-coverhound)
+is the authoritative source of Ruby style. This exists to cover cases not easily
+handled by Rubocop. There are likely other rules that are handled by Rubocop,
+but they are here for vestigial reasons, e.g. we haven't removed the extraneous
+rules from this file after we pivoted to using the config repo/gem.
 
 ## Table of Contents
 
