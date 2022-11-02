@@ -18,6 +18,21 @@ Commit Message](https://chris.beams.io/posts/git-commit/).
 1. Wrap the body at 72 characters
 1. Use the body to explain what and why vs. how
 
+Additionally, we add one rule not part of that list, but we have found makes
+things clearer for everybody.
+
+1. Write at least two paragraphs in your body.
+  + Even if you can't think of anything you think is helpful. Give yourself at
+    least ten minutes before you decide you can't share any context.
+  + If you truly can't think of anything good to write then just write why you
+    don't think there's any meaningful context to share. Despite what you may
+    think now, that is actually better than nothing to a future reader.
+    Something obvious to you now is not guaranteed to be obvious later.
+  + Going through the motions of *always* writing something even for "obvious"
+    changes guards against the pattern of "obvious" unexplained changes growing
+    over time.
+  + Incomplete and imperfect documentation is better than missing documentation.
+
 For an example of what that would look like, we have copied the example commit
 from the link.
 
