@@ -42,3 +42,20 @@
 - If a spec completely changes from the original direction of the story after
   development has already begun/completed, a separate ticket should be created
   with the new requirements.
+- After picking up a story, a developer should add a comment referencing the
+  branch they will be using to track their changes.
+  - This should be added in the "code" section of the Pivotal ticket, which will
+    enforce proper GitHub branch link structure.
+  - Developers should push any local changes to origin at the end of each
+    working day.
+  - Commits and commit messages are not expected to be clean and tidy. Push up
+    work in progress as is.
+  - Other developers will not push on this branch without approval of the
+    original developer. If you need to pick up the work, clone the branch to one
+    you control and tag it in the ticket.
+  - *NB*: This is to guard against worst case scenarios of work being lost or
+    held up in case a developer is unable to work for health or any other
+    reason. We want to be able to continue work without having to interrupt our
+    teammates as they are handling their personal and medical issues OR spending
+    their billions of dollars from winning the lottery! This is not meant to be
+    a check on how often and when developers are committing.
